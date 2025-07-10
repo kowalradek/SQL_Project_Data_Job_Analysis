@@ -2,7 +2,7 @@
 
 # Introduction
 
-Welcome to my SQL Portfolio Project, where I delve into the Polish data job market in the 2023 with a focus on data analyst roles. This project is a personal exploration into identifying the top-paying jobs, in-demand skills, and the intersection of high demand with high salary in the field of data analytics.
+Welcome to my SQL Portfolio Project, where I delve into the Polish data job market in the 2023 with a focus on data analyst roles. This project is a personal exploration into identifying the top-paying jobs, in-demand skills, and the intersection of high demand with high salary in the field of data analytics. This project served as the capstone assignment for my data analytics course, allowing me to apply all the key SQL concepts learned.
 
 Check out my SQL queries here: [SQL Queries](./project_sql)
 
