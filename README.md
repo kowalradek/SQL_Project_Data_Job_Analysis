@@ -59,7 +59,7 @@ Here's the breakdown of the top data analyst jobs in 2023 in Poland, based on yo
 
 * **Variety in High-Paying Roles:** Beyond the top Data Architect positions, there is a high diversity in job titles, including specializations like **Risk**, **People Data**, and **Commercial Excellence**. This reflects a growing need for data analysts with specific domain expertise.
   
-![ ](project_sql/query_1_image_top_jobs.png)
+![ ](project_sql/plot1.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; Gemini generated this graph from my SQL query results*
 
 
